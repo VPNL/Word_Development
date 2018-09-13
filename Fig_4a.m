@@ -8,6 +8,9 @@ DataDir_high_word = './data/lateral_VTC/selectivity_analyses/word_selectivity';
 DataDir_no_word = './data/lateral_VTC/selectivity_analyses/no_word_selectivity';
 ResultsDir = './figures';
 
+FunctionsDir = './functions';
+addpath(FunctionsDir)
+
 % We plot classification for words in a) all voxels (as lines), b) word-selective
 % voxels, and c) non-word selective voxels
 selectivity = {'all', 'no-high-word', 'high-word'};

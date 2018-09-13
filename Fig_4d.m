@@ -9,7 +9,8 @@ function Fig_4d
  DataDir_nohighChars = './data/lateral_VTC/selectivity_analyses/no_chars_selectivity';
  ResultsDir = './figures';
 
-
+FunctionsDir = './functions';
+addpath(FunctionsDir)
 
 selectivity = {'all', 'no-high-chars', 'high-chars'};
 

@@ -20,7 +20,7 @@ function Fig_5a_5b_5c
 %% Load data.
 
 % results from 30% voxels voxels with highest classification (absolute t-val)
-load(fullfile(DataDir, 'data_wta_behave_corr_combined_absolute-high-chars-30%'));
+load(fullfile(DataDir, 'data_wta_behave_corr_combined_absolute-high-chars-30prcnt'));
 table_high_chars_abs_30 = combined_wta_behave;
 clearvars combined_wta_behave
 
