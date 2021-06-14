@@ -1,6 +1,6 @@
 # Word_Development
 
-This is the code that generates the main Figures of the publication: Nordt, M., Gomez, J., Natu, V., Jeska, B., Barnett, M., & Grill-Spector, K. (2018). Cerebral Cortex (https://doi.org/10.1093/cercor/bhy178). Data and code may be re-used with adequate citation of our study (license CC BY-NC).
+This is the code that generates the main Figures of the publication: Nordt, M., Gomez, J., Natu, V., Jeska, B., Barnett, M., & Grill-Spector, K. (2018). Cerebral Cortex (https://doi.org/10.1093/cercor/bhy178). 
 
 
 
